@@ -8,7 +8,7 @@ entries:
     digest: b40b785b83a2cebf2ad085135c6cdc53c829183e47f69afcf295090ca681229b
     name: unit-converter
     urls:
-    - https://raw.githubusercontent.com/Harthik2001/my_helm_charts/charts/unit-converter-0.1.0.tgz
+      - https://raw.githubusercontent.com/Harthik2001/my_helm_charts/main/charts/unit-converter-0.1.0.tgz
 
     version: 0.1.0
 generated: "2024-11-26T17:58:00.295296005+05:30"
